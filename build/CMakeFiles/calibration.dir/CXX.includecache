@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peter/Documents/3dv/3dv_compile seperately/01_camera_calibration/calibration.cpp
+opencv2/opencv.hpp
+/home/peter/Documents/3dv/3dv_compile seperately/01_camera_calibration/opencv2/opencv.hpp
+fstream
+/home/peter/Documents/3dv/3dv_compile seperately/01_camera_calibration/fstream
+
