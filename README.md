@@ -5,19 +5,17 @@ This is a script written for finding the camera intrinsic parameters.
 * OpenCV 3.4
 * Cmake 3.5
 
-###Before build:
+### Before build:
 please change the video source path in calibration.cpp
 
-###To build:
+### To build:
 1. git clone
 2. cd build
 3. cmake ..
 4. make
 
-###To Run:
+### To Run:
 run ./calibration
 
-###Example:
-
-
-
+### Example:
+<img src="https://github.com/gregsensem/camera-calibration/raw/master/example.png" width="50%" height="50%">
