@@ -1,4 +1,4 @@
-#Camera Calibration
+# Camera Calibration
 This is a script written for finding the camera intrinsic parameters.
 
 ### Dependencies:
